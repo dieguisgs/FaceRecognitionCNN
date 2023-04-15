@@ -1,6 +1,6 @@
 # Analysis of Non-Structured Data
 
-## Ensemble Project
+## Deep Learning Project
 
 Project done by: 
 
